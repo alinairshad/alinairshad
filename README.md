@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alinairshad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
   <a href="https://linkedin.com/in/alina-irshad-410364385">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
@@ -19,99 +18,84 @@
 - 🤖 Working on an **AI-Powered Codebase Explainer**
 - 🌱 Currently learning **FastAPI, MLflow, React, and YOLO Architectures**
 - 💼 AI Intern at **NETSOL Technologies**
-- ⚡ I enjoy transforming ML experiments into clean, reproducible pipelines.
+- ⚡ I enjoy transforming ML experiments into clean, reproducible pipelines
+
+---
+
+## 🚀 Currently Working On
+
+- 🔹 Signature Detection using YOLOv9  
+- 🔹 MLOps Pipeline with MLflow  
+- 🔹 AI Codebase Explainer Tool  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,fastapi,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,fastapi,git,github,vscode,mysql" />
 </p>
 
 ### 🤖 Machine Learning & MLOps
-
-- YOLOv9
-- PyTorch
-- MLflow
-- OpenCV
-- pycocotools
+- YOLOv9  
+- PyTorch  
+- MLflow  
+- OpenCV  
+- pycocotools  
 
 ### ☁️ Cloud Platforms
-
-- Google Colab
-- Kaggle
-- Modal.com
+- Google Colab  
+- Kaggle  
+- Modal.com  
 
 ### 🧰 Tools
-
-- Git
-- GitHub
-- VS Code
-- Jira
+- Git  
+- GitHub  
+- VS Code  
+- Jira  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🖋️ Signature Detection MLOps Pipeline
-
 An end-to-end MLOps pipeline for handwritten signature detection using **YOLOv9**, experiment tracking with **MLflow**, reproducible training, and COCO evaluation metrics.
 
 ---
 
 ### 🤖 AI-Based Codebase Explainer
-
 An AI-powered tool that analyzes repositories and generates explanations to help developers understand unfamiliar codebases.
 
 ---
 
 ### 📄 OCR Model Benchmarking
-
 Benchmarked multiple OCR engines including **PaddleOCR**, **Surya OCR**, and **Chandra OCR** on **Modal.com**.
 
 ---
 
 ### 💼 Complaint Management System
-
 A full-stack web application for complaint submission, tracking, and management.
 
 ---
 
 ### 📚 Online Course Registration System
-
 A relational database-driven course registration portal for students.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alinairshad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinairshad&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alinairshad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinairshad&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alinairshad&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alinairshad&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://streak-stats.demolab.com?user=alinairshad&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -119,17 +103,13 @@ A relational database-driven course registration portal for students.
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/alina-irshad-410364385">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/alina-irshad-410364385">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
-
 </p>
