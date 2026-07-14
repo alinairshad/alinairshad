@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alinairshad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
   <a href="https://linkedin.com/in/alina-irshad-410364385">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
