@@ -106,12 +106,12 @@ A relational database-driven course registration portal for students.
 
 ---
 
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alinairshad&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=alinairshad&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
